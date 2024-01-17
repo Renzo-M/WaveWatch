@@ -33,4 +33,4 @@ Build .exe file
 ```
 
 ### ⚖ License
-MIT License
+GNU - General Public License 3.0
