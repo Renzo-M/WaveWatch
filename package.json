@@ -1,0 +1,17 @@
+{
+  "name": "surfcamera",
+  "version": "1.0.0",
+  "description": "Rico Point Live Camera.",
+  "main": "main.js",
+  "icon": "wave.ico",
+  "scripts": {
+    "start": "electron .",
+    "build": "npx electron-packager . --icon=wave.ico --out=packages"
+  },
+  "keywords": [],
+  "author": "RenzoM",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.1.3"
+  }
+}
